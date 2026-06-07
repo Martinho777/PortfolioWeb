@@ -2,6 +2,12 @@
 
 Portafolio web personal de Martin Villatoro para el proyecto final de Sistemas y Tecnologias Web.
 
+## Sitio publicado
+
+El portafolio esta publicado en Netlify:
+
+https://martinvportfolioo.netlify.app/
+
 ## Descripcion
 
 Sitio construido para presentar mi perfil como desarrollador web junior, mis proyectos principales, laboratorios del curso, tecnologias utilizadas, decisiones tecnicas y enlaces de contacto.
@@ -13,7 +19,7 @@ Sitio construido para presentar mi perfil como desarrollador web junior, mis pro
 - JavaScript
 - CSS
 - GitHub
-- Deploy web
+- Netlify
 
 ## Instalacion
 
@@ -74,6 +80,6 @@ Los enlaces pendientes se mantienen como `"#"` en los datos del proyecto. En la 
 
 Este portafolio esta dirigido a empresas, startups o equipos que buscan un desarrollador web junior con bases full stack. La intencion es mostrar proyectos donde se vea no solo la parte visual, sino tambien el proceso de conectar frontend, backend, APIs, base de datos y deploy.
 
-Decidi usar React con Vite y CSS porque son herramientas que ya conozco y que me permiten crear una pagina rapida, ordenada y responsive sin agregar configuracion innecesaria. Decidi no usar Docker porque el objetivo del portafolio es presentar mi perfil y mis proyectos, no levantar infraestructura adicional.
+Decidi usar React con Vite y CSS porque son herramientas que ya conozco y que me permiten crear una pagina rapida, ordenada y responsive sin agregar configuracion innecesaria. Publique el sitio en Netlify porque permite desplegar proyectos frontend de forma directa a partir de la version de produccion generada por Vite. Decidi no usar Docker porque el objetivo del portafolio es presentar mi perfil y mis proyectos, no levantar infraestructura adicional.
 
 El mayor riesgo fue presentar los proyectos como pequenos casos de estudio, explicando que problema resolvia cada uno, que tecnologias use y que aprendi. Con mas tiempo agregaria capturas reales, animaciones sutiles y paginas individuales por proyecto.
