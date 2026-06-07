@@ -82,4 +82,4 @@ Este portafolio esta dirigido a empresas, startups o equipos que buscan un desar
 
 Decidi usar React con Vite y CSS porque son herramientas que ya conozco y que me permiten crear una pagina rapida, ordenada y responsive sin agregar configuracion innecesaria. Publique el sitio en Netlify porque permite desplegar proyectos frontend de forma directa a partir de la version de produccion generada por Vite. Decidi no usar Docker porque el objetivo del portafolio es presentar mi perfil y mis proyectos, no levantar infraestructura adicional.
 
-El mayor riesgo fue presentar los proyectos como pequenos casos de estudio, explicando que problema resolvia cada uno, que tecnologias use y que aprendi. Con mas tiempo agregaria capturas reales, animaciones sutiles y paginas individuales por proyecto.
+El mayor riesgo fue presentar los proyectos como pequeños casos de estudio, explicando que problema resolvia cada uno, que tecnologias use y que aprendi. Con mas tiempo agregaria capturas reales, animaciones sutiles y paginas individuales por proyecto.
